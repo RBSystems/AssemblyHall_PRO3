@@ -1,0 +1,7 @@
+<Device Model="DIN-AP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="DIN-DALI-2" DeviceId="A0" Name="DIN-DALI-2 (Cresnet) (Firmware v3.xxx.xxxx)"/>
+      <Device Model="DIN-DALI-2" DeviceId="A1" Name="DIN-DALI-2 (Cresnet) (Firmware v3.xxx.xxxx)"/>
+   </Network>
+   <Network Type="Ethernet" Id="02"/>
+</Device>
